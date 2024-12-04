@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*BG PALAS*/
+.bg-gradient-custom-palas {
+    background: linear-gradient(to right, #0c4a6e, rgba(0, 0, 0, 0)), url('/bannerImages/bannerPala.jpg');
+    background-size: cover;
+    background-position: right;
+}
